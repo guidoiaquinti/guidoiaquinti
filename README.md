@@ -15,7 +15,13 @@ Professional wise, I'm an engineer with an academic background and experience in
 * 💡 I'm always interested in learning something new (in both tech and non-tech fields).
 
 
-## Public presentations
+## Public presentations & blogposts
+
+**2020**
+
+- Scaling Datastores at Slack with Vitess ([slack.engineering blogpost](https://slack.engineering/scaling-datastores-at-slack-with-vitess/))
+
+- Codename VIFL - How to Migrate MySQL Database Clusters to Vitess (KubeCon 2020 - virtual conference) ([website](https://kccncna20.sched.com/event/ekF5/codename-vifl-how-to-migrate-mysql-database-clusters-to-vitess-guido-iaquinti-rafael-chacon-slack), [slides](./presentations/2020%20-%20Codename%20VIFL%20-%20How%20to%20Migrate%20MySQL%20Database%20Clusters%20to%20Vitess%20(KubeCon%202020%20-%20virtual%20conference).pdf), [video](https://www.youtube.com/watch?v=k51L0xdClGQ))
 
 **2019**
 

@@ -40,8 +40,6 @@ Professional wise, I'm an engineer with an academic background and experience in
 
 ## Contacts
 
-* <img style="border-radius:50%" align="center" width="26" height="26" src="https://github.com/guidoiaquinti/guidoiaquinti/blob/master/icons/website.png?raw=true"> [guido.iaquinti.com](https://guido.iaquinti.com)
-
-* <img style="border-radius:50%" align="center" width="26" height="26" src="https://github.com/guidoiaquinti/guidoiaquinti/blob/master/icons/linkedin.png?raw=true"> [linkedin.com/in/guidoiaquinti](https://www.linkedin.com/in/guidoiaquinti)
-
-* <img style="border-radius:50%" align="center" width="26" height="26" src="https://github.com/guidoiaquinti/guidoiaquinti/blob/master/icons/twitter.png?raw=true"> [twitter.com/guidoiaquinti](https://www.twitter.com/guidoiaquinti)
+<a href="https://guido.iaquinti.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/guidoiaquinti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a rel="me" href="https://mastodon.online/@guidoiaquinti"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" /></a>

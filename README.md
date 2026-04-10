@@ -5,14 +5,14 @@ My name is Guido Iaquinti and I define myself as a curious human, always eager t
 Professional wise, I'm an engineer with an academic background and experience in high volume/high availability Internet architectures. I'm a technology enthusiast excited about open source software. My passion is to develop, scale, and automate complex systems.
 
 ## About me
-
-* 🇮🇹 Italian living in Barcelona (Spain 🇪🇸). In the past, I've also lived in Dublin (Ireland), Berlin (Germany), and Auckland (New Zealand).
-* ⛵ Sailor, former member of the national Italian sailing team and a certified sailing instructor. In 2018, I crossed the Atlantic Ocean on a 10 m / 34 ft sailboat.
+* 🇮🇹 Italian currently based in Rotterdam (Netherlands). Previously lived and worked in Barcelona (Spain), Dublin (Ireland), Berlin (Germany), and Auckland (New Zealand).
+* 👨‍💻 My experience spans early-stage startups to multi-billion dollar companies.
+* 🚀 In 2022, I co-founded [SafetyClerk](https://safetyclerk.com) to help modernize the construction industry through data. We’ve enabled hundreds of companies to move from reactive operations to proactive, data-driven decision-making, boosting efficiency and increasing visibility across their work.
+* 🏔️ In 2019, I summited [Mount Kilimanjaro](https://wikipedia.org/wiki/Mount_Kilimanjaro) (5,895 m / 19,341 ft above sea level) via the Lemosho Route.
 * 🥾 In 2018, I completed a solo hiking trip, starting in France and arriving at the end of Spain covering about 730 km / 450 miles in around 20 days.
-* 🏔️ In 2019, I climbed [Mount Kilimanjaro](https://wikipedia.org/wiki/Mount_Kilimanjaro) (5,895 m / 19,341 ft above sea level) via the Lemosho Route.
-* 👨‍💻 My working experience spans from little startups to multi-billion dollar companies. Lately, I was lucky enough to be one of the founding members of the technical operations team at [Slack](https://slack.com).
-* 💪 I love challenges and throw myself in difficult situations.
-* 💡 I'm always interested in learning something new (in both tech and non-tech fields).
+* ⛵ Sailor, former member of the national Italian sailing team and a certified sailing instructor. In 2018, I crossed the Atlantic Ocean on a 10 m / 34 ft sailboat.
+* 💪 I thrive in challenging environments and enjoy stepping outside my comfort zone.
+* 💡 Always learning, across both technical and non-technical domains.
 
 
 ## Public presentations & blogposts

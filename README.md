@@ -1,18 +1,18 @@
 # 👋 Hi
 
-My name is Guido Iaquinti and I define myself as a curious human, always eager to learn new things.
+My name is Guido Iaquinti. I'm naturally curious and always eager to learn.
 
-Professional wise, I'm an engineer with an academic background and experience in high volume/high availability Internet architectures. I'm a technology enthusiast excited about open source software. My passion is to develop, scale, and automate complex systems.
+Professionally, I'm an engineer with an academic background and experience in high-volume, high-availability internet architectures. I'm a technology enthusiast excited about open-source software. I'm passionate about designing, building, scaling, and automating complex systems.
 
 ## About me
-* 🇮🇹 Italian currently based in Rotterdam (Netherlands). Previously lived and worked in Barcelona (Spain), Dublin (Ireland), Berlin (Germany), and Auckland (New Zealand).
-* 👨‍💻 My experience spans early-stage startups to multi-billion dollar companies.
+* 🇮🇹 I’m Italian and currently based in Rotterdam (the Netherlands). Previously lived and worked in Barcelona (Spain), Dublin (Ireland), Berlin (Germany), and Auckland (New Zealand).
+* 👨‍💻 My experience ranges from early-stage startups to multibillion-dollar companies.
 * 🚀 In 2022, I co-founded [SafetyClerk](https://safetyclerk.com) to help modernize the construction industry through data. We’ve enabled hundreds of companies to move from reactive operations to proactive, data-driven decision-making, boosting efficiency and increasing visibility across their work.
 * 🏔️ In 2019, I summited [Mount Kilimanjaro](https://wikipedia.org/wiki/Mount_Kilimanjaro) (5,895 m / 19,341 ft above sea level) via the Lemosho Route.
-* 🥾 In 2018, I completed a solo hiking trip, starting in France and arriving at the end of Spain covering about 730 km / 450 miles in around 20 days.
-* ⛵ Sailor, former member of the national Italian sailing team and a certified sailing instructor. In 2018, I crossed the Atlantic Ocean on a 10 m / 34 ft sailboat.
+* 🥾 In 2018, I completed a 730 km (450-mile) solo hike from France to the Portuguese border in approximately 20 days.
+* ⛵ Sailor, former member of the Italian national sailing team and a certified sailing instructor. In 2018, I crossed the Atlantic Ocean on a 10 m / 34 ft sailboat.
 * 💪 I thrive in challenging environments and enjoy stepping outside my comfort zone.
-* 💡 Always learning, across both technical and non-technical domains.
+* 💡 Always learning across both technical and non-technical domains.
 
 
 ## Public presentations & blogposts
